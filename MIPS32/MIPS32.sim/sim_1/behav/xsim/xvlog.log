@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/rishi/Vivado Projects/MIPS32/Verilog/verilog_MIPS32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pipe_mips32
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/rishi/Vivado Projects/MIPS32/Verilog/testbench3.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module test_mips32

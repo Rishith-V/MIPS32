@@ -1,0 +1,56 @@
+# Vivado project files
+*.xpr
+*.xpr.pb
+*.xpr.orig
+*.xpr.jou
+*.xpr.log
+*.xise
+*.cache
+*.runs
+*.srcs
+*.sdk
+*.sdk.jou
+*.sdk.log
+*.bda
+*.tcl.log
+
+# Vivado temporary files
+.Xil
+webtalk*.log
+webtalk*.jou
+xelab.log
+xelab.pb
+xsim.log
+xsim.pb
+
+# Simulation files
+*.wdb
+*.wcfg
+
+# IP core files
+*.xci.lock
+ip_user_files/
+
+# Bitstream and hardware definition files
+*.bit
+*.bin
+*.mcs
+*.prm
+*.ltx
+*.dcp
+*.sysdef
+*.hwh
+*.hsa
+*.bmm
+
+# HLS project files
+.ap_工程
+.autopilot
+*.o
+*.xo
+
+# Vitis project files
+.build/
+.metadata/
+.ide/
+*.ide.log
